@@ -12,6 +12,7 @@ Este documento descreve os requisitos funcionais e não funcionais para o desenv
 - **Datas de Término**: O usuário pode opcionalmente definir uma data de término para o hábito. O sistema deve notificar o usuário quando a data de término estiver próxima.
 - **Recorrência**: O usuário pode definir se o hábito deve se repetir semanalmente, diariamente ou em intervalos personalizados.
 - **Notificações e Lembretes**: O sistema deve permitir que o usuário configure lembretes para a realização do hábito, com notificações push no caso de dispositivos móveis.
+- **Multiplataforma**: O usuário deve ter a capacidade de acessar seus hábitos em qualquer plataforma, incluindo navegador, desktop e dispositivos móveis. Portanto, o aplicativo deve ser desenvolvido para atender aos requisitos de multiplataforma.
 
 ### 2.2. Sistema de Contas e Sincronização
 
